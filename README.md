@@ -9,4 +9,4 @@ This repo contains the logistic lasso algorithm. The functions are coded based o
 - vignette.pdf: the instruction of using the logistic lasso algorithm
 
 
--- some of the codes are credit to Professor Daniel Simpson
+some of the codes are credit to Professor Daniel Simpson
